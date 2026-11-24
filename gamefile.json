@@ -43,19 +43,166 @@
       },
       "countersStartingValues": [],
       "sections": {
+        "customSections": [
+          "Monsters_1",
+          "Monsters_2",
+          "Monsters_3",
+          "Spells_1",
+          "Spells_2",
+          "Spells_3"
+        ],
         "layout": {
-          "direction": "column",
+          "direction": "row",
+          "isSymetricalForOpponents": true,
           "content": [
             {
-              "section": "Board"
+              "direction": "column",
+              "style": {
+                "width": "93vh",
+                "marginRight": "auto",
+                "marginLeft": "auto"
+              },
+              "content": [
+                {
+                  "direction": "row",
+                  "content": [
+                    {
+                      "section": "Monsters_1",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Monsters_2",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Monsters_3",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "direction": "row",
+                  "content": [
+                    {
+                      "section": "Spells_1",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Spells_2",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Spells_3",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         "sectionsDict": {
-          "Board": {
+          "Spells_1": {
+            "title": "Spells_1",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Spell/Trap",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Spells_2": {
+            "title": "Spells_2",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Spell/Trap",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Spells_3": {
+            "title": "Spells_3",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Spell/Trap",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Monsters_1": {
+            "title": "Monsters_1",
             "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "CENTER"
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Monster",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Monsters_2": {
+            "title": "Monsters_2",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Monster",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Monsters_3": {
+            "title": "Monsters_3",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "NONE",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Monster",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           }
         }
       }
