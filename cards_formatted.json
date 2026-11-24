@@ -807,7 +807,7 @@
           "name": "Fire Bringer"
         },
         "type": "Monster",
-        "cost": 1,
+        "cost": 3,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/40.png",
         "strength": 1,
         "effect": "When you Burn: Draw 1."
@@ -815,7 +815,7 @@
     },
     "name": "Fire Bringer",
     "type": "Monster",
-    "cost": 1,
+    "cost": 3,
     "strength": 1,
     "effect": "When you Burn: Draw 1."
   },
