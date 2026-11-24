@@ -410,14 +410,14 @@
         "cost": 0,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/20.png",
         "strength": 3,
-        "effect": "When this card is discarded: You can add 1 \"Fish\" Monster from your deck to your hand except \"Angeler Fish\", then return this card to the bottom of the deck."
+        "effect": "When this card is discarded: You can add 1 \"Fish\" Card from your deck to your hand except \"Angeler Fish\", then return this card to the bottom of the deck."
       }
     },
     "name": "Angler Fish",
     "type": "Monster",
     "cost": 0,
     "strength": 3,
-    "effect": "When this card is discarded: You can add 1 \"Fish\" Monster from your deck to your hand except \"Angeler Fish\", then return this card to the bottom of the deck."
+    "effect": "When this card is discarded: You can add 1 \"Fish\" Card from your deck to your hand except \"Angeler Fish\", then return this card to the bottom of the deck."
   },
   "21": {
     "id": "21",
