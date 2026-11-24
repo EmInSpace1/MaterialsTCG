@@ -4,7 +4,8 @@
     "mainFilters": [
       "type",
       "cost",
-      "strength"
+      "strength",
+      "effect"
     ],
     "formats": [
       {
