@@ -13,22 +13,20 @@
       }
     ],
     "deckRulesets": {
-        "deckRulesets": {
-          "Standard": {
-            "general": {
-              "min": 30,
-              "maxPerCard": 3
-            },
-            "categories": [
-              {
-                "category": "Sideboard",
-                "min": 0,
-                "max": 10
-              }
-            ]
+      "Standard": {
+        "general": {
+          "min": 30,
+          "maxPerCard": 3
+        },
+        "categories": [
+          {
+            "category": "Sideboard",
+            "min": 0,
+            "max": 10
           }
-        }
+        ]
       }
+    }
   },
   "gameplay": {
     "Standard": {
@@ -61,9 +59,10 @@
           }
         }
       }
-    },
-    "cards": {
-      "dataUrl": "https://eminspace1.github.io/MaterialsTCG/cards_formatted.json",
-      "cardBack": "https://eminspace1.github.io/MaterialsTCG/backs/back.png"
     }
+  },
+  "cards": {
+    "dataUrl": "https://eminspace1.github.io/MaterialsTCG/cards_formatted.json",
+    "cardBack": "https://eminspace1.github.io/MaterialsTCG/backs/back.png"
   }
+}
