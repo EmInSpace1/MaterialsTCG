@@ -3,7 +3,8 @@
   "deckBuilding": {
     "mainFilters": [
       "type",
-      "cost"
+      "cost",
+      "strength"
     ],
     "formats": [
       {
