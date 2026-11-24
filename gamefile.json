@@ -1,45 +1,68 @@
 {
   "name": "Materials",
   "deckBuilding": {
-    "mainFilters": ["type", "cost"],
+    "mainFilters": [
+      "type",
+      "cost"
+    ],
     "formats": [
-      { "title": "Standard format", "gameplay": "Standard" }
+      {
+        "title": "Standard format",
+        "gameplay": "Standard"
+      }
     ]
   },
   "gameplay": {
     "Standard": {
-      "mulligan": { 
-        "startingHandSize": 6 ,
-	"mulliganCount": { "max": 0 }
+      "mulligan": {
+        "startingHandSize": 6,
+        "mulliganCount": {
+          "max": 0
+        }
       },
-      "newTurn": { 
-	"drawOnStart": false,
-        "drawPerTurn": 0, 
-	"sharedTurn": true
+      "newTurn": {
+        "drawOnStart": false,
+        "drawPerTurn": 0,
+        "sharedTurn": true
       },
       "countersStartingValues": [],
       "sections": {
         "layout": {
           "direction": "column",
-          "content": [{ "section": "Board" }]
+          "content": [
+            {
+              "section": "Board"
+            }
+          ]
         },
         "sectionsDict": {
-          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+          "Board": {
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER"
+          }
         }
       },
-     "deckRulesets": {
-	"deckRulesets": {
-  		"Standard": {
-    		"general": { "min": 30, "maxPerCard": 3 },
-    		"categories": [
-      		{ "category": "Sideboard", "min": 0, "max": 10 }
-    		]
-  		}
-	}
+      "deckRulesets": {
+        "deckRulesets": {
+          "Standard": {
+            "general": {
+              "min": 30,
+              "maxPerCard": 3
+            },
+            "categories": [
+              {
+                "category": "Sideboard",
+                "min": 0,
+                "max": 10
+              }
+            ]
+          }
+        }
+      }
+    },
+    "cards": {
+      "dataUrl": "https://eminspace1.github.io/MaterialsTCG/cards_formatted.json",
+      "cardBack": "https://eminspace1.github.io/MaterialsTCG/backs/back.png"
     }
-  },
-  "cards": {
-    "dataUrl": "https://eminspace1.github.io/MaterialsTCG/cards_formatted.json",
-    "cardBack": "https://eminspace1.github.io/MaterialsTCG/backs/back.png"
   }
-}
