@@ -434,273 +434,273 @@
     "Effect": "Burn 6, Deal 4 damage to a monster."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/56.png",
     "name": "Wall of Fire",
     "Type": "Spell",
     "Cost": 6,
     "Effect": "Burn 6, Set a trap from your discard pile (it can be activated this turn)."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/57.png",
     "name": "Fire Detector",
     "Type": "Spell",
     "Cost": 6,
     "Effect": "Burn 6, Add a \"Fire\" monster from your deck to your hand."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/58.png",
     "name": "Fiery will",
     "Type": "Spell",
     "Cost": 0,
     "Effect": "Burn 6, Give a monster Piercing this turn.\nIf this card is burned: Draw 1."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/59.png",
     "name": "Candle",
     "Type": "Spell",
     "Cost": 0,
     "Effect": "Burn 1, Give a monster +1 Attack\nIf this card is burned: Burn 1."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/60.png",
     "name": "Red Flames",
     "Type": "Spell",
     "Cost": 0,
     "Effect": "Burn 6.\nIf this card is burned: Add a \"Fire\" monster from your Discard pile to your hand."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/61.png",
     "name": "Hell's Fire",
     "Type": "Spell",
     "Cost": 6,
     "Effect": "Burn 6, Add 1 card with the keyword \"Burn\" that you did not activate this turn from your discard pile to your hand."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/62.png",
     "name": "Secret Help",
     "Type": "Trap",
     "Cost": 0,
     "Effect": "Give a monster you control +2 attack after the Calculation Phase."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/63.png",
     "name": "Negatiotions",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "Select an attacking monster; Negate the attack."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/64.png",
     "name": "Stop That",
     "Type": "Trap",
     "Cost": 3,
     "Effect": "When a monster effect is activated: Negate that effect."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/65.png",
     "name": "Digging a Hole",
     "Type": "Trap",
     "Cost": 2,
     "Effect": "All effects in this column are negated until the end of the turn."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/66.png",
     "name": "Trickery",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "Take control of a monster your opponent controls until the end of the turn."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/67.png",
     "name": "Let Me Take This",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "If a monster leaves the field: Add 1 card from your discard pile to your hand."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/68.png",
     "name": "The Moving Wall",
     "Type": "Trap",
     "Cost": 0,
     "Effect": "If a monster you control was destroyed in the setting phase: Summon this card as a monster with 4 attack."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/69.png",
     "name": "I Need This",
     "Type": "Trap",
     "Cost": 3,
     "Effect": "When an effect is activated: Negate that effect."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/70.png",
     "name": "A Way Out",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "Destroy an attacking monster. (You cannot activate traps after this card resolves)."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/71.png",
     "name": "Emergency Revive",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "If a monster is destroyed: Select that monster; Summon it."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/72.png",
     "name": "Blunt Weapon",
     "Type": "Trap",
     "Cost": 0,
     "Effect": "Lower the attack of a monster by 1."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/73.png",
     "name": "The End of the Road",
     "Type": "Trap",
     "Cost": 2,
     "Effect": "Negate the effect of a trap on the field."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/74.png",
     "name": "Sapping Strength Pit",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "Select an attacking monster; Add it's attack to a monster you control."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/75.png",
     "name": "Rat Saver",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "If a card you control is destroyed: Summon 1 \"Rat\" Monster from your discard pile."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/76.png",
     "name": "Rat Poison",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "If a monster you control is destroyed: Summon 1 \"Pack Rat Crew\" from your hand, deck or discard pile."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/77.png",
     "name": "Birth of the Rat King",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "Destroy 2 monsters from your hand or field, then summon 1 \"Rat King\" monster from your hand, deck or discard pile."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/78.png",
     "name": "Suicide Mission",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "During the Battle Phase: Select a monster you control; Destroy it, and if you do, deal damage to your opponent equal to that monster's attack."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/79.png",
     "name": "Rat Pit",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "When an enemy monster attacks: Summon this card as a 3 attack monster, and if you do, immediatly defend with it."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/80.png",
     "name": "Fish Bait",
     "Type": "Trap",
     "Cost": 0,
     "Effect": "Discard 1 card and select a monster on the field; Lower it's attack by 1.\n\nIf this card is discarded: You can set it."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/81.png",
     "name": "Fish Net",
     "Type": "Trap",
     "Cost": 1,
-    "Effect": "Discard 2 and select a card on the field; Destroy it.\n"
+    "Effect": "Discard 2 and select a card on the field; Destroy it."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/82.png",
     "name": "Lie and Wait",
     "Type": "Trap",
     "Cost": 2,
     "Effect": "When your opponent activates a trap: Select a different trap; Destroy it. (The selected trap cannot be activated in response to this card)."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/83.png",
     "name": "The Antidote",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "Select a monster on the field; It becomes unaffected by traps until the end of the turn."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/84.png",
     "name": "Creatures from the Deep",
     "Type": "Trap",
     "Cost": 2,
     "Effect": "During the flipping phase: Summon up to 2 monsters from your discard pile, then summon the same amount of monsters from your opponent's discard pile to their field. Destroy those monsters at the end of the turn."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/85.png",
     "name": "War Horn",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "When you attack: All attacking monsters gain +1 attack."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/86.png",
     "name": "Trapped in Laughter",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "Peek at opponent: Destroy an attacking monster, then summon a monster from the owner's discard pile to their field, it's attacking.\nIf you pick wrong: Put a monster/trap from either discard pile on top of the owner's deck."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/87.png",
     "name": "Reinforcements",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "When your opponent attacks: select an attacking monster; Look at the top 3 cards of your deck, summon a monster from amongst them, block the selected monster with it, put the rest at the top of your deck in any order."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/88.png",
     "name": "Pointy Sword",
     "Type": "Trap",
     "Cost": 2,
     "Effect": "Select an attacking monster; it gains +1 attack and Piercing."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/89.png",
     "name": "Threatening Aura",
     "Type": "Trap",
     "Cost": 2,
     "Effect": "Select an attacking monster with 4 or less attack; It cannot be blocked this turn."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/90.png",
     "name": "Betrayal",
     "Type": "Trap",
     "Cost": 2,
     "Effect": "Select an attacking monster with 2 or less attack; It attacks it's controller instead."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/91.png",
     "name": "Switcheroo",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "Select a set trap your opponent controls; Set this card (but it cannot be activated this turn), then switch control of this card and the selected trap. (The selected trap cannot be activated in respone to this effect)."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/92.png",
     "name": "Killing Joke",
     "Type": "Trap",
     "Cost": 1,
     "Effect": "Peek at opponent: Destroy a card on the field.\nIf you got it wrong: Your opponent's cards cannot be destroyed this turn."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/93.png",
     "name": "Fire Shield",
     "Type": "Trap",
     "Cost": 6,
     "Effect": "Burn 6, The next time a monster would be destroyed it's not and you take damage equal to that monster's attack."
   },
   {
-    "image": "",
+    "image": "https://eminspace1.github.io/MaterialsTCG/fronts/94.png",
     "name": "Burning Heap",
     "Type": "Trap",
     "Cost": 0,
