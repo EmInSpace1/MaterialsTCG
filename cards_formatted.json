@@ -1,0 +1,1522 @@
+{
+  "00": {
+    "id": "00",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fisherman"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/00.png"
+      }
+    },
+    "name": "Fisherman",
+    "type": "Monster",
+    "cost": 0
+  },
+  "01": {
+    "id": "01",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Knight in Training"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/01.png"
+      }
+    },
+    "name": "Knight in Training",
+    "type": "Monster",
+    "cost": 0
+  },
+  "02": {
+    "id": "02",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Castle Wall"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/02.png"
+      }
+    },
+    "name": "Castle Wall",
+    "type": "Monster",
+    "cost": 0
+  },
+  "03": {
+    "id": "03",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Witch of the Castle"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/03.png"
+      }
+    },
+    "name": "Witch of the Castle",
+    "type": "Monster",
+    "cost": 0
+  },
+  "04": {
+    "id": "04",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Giant Bull"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/04.png"
+      }
+    },
+    "name": "Giant Bull",
+    "type": "Monster",
+    "cost": 0
+  },
+  "05": {
+    "id": "05",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Living Trench"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/05.png"
+      }
+    },
+    "name": "Living Trench",
+    "type": "Monster",
+    "cost": 0
+  },
+  "06": {
+    "id": "06",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Army Recruiter"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/06.png"
+      }
+    },
+    "name": "Army Recruiter",
+    "type": "Monster",
+    "cost": 0
+  },
+  "07": {
+    "id": "07",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bomber"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/07.png"
+      }
+    },
+    "name": "Bomber",
+    "type": "Monster",
+    "cost": 0
+  },
+  "08": {
+    "id": "08",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Immortal"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/08.png"
+      }
+    },
+    "name": "The Immortal",
+    "type": "Monster",
+    "cost": 0
+  },
+  "09": {
+    "id": "09",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Perfect Knight"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/09.png"
+      }
+    },
+    "name": "The Perfect Knight",
+    "type": "Monster",
+    "cost": 0
+  },
+  "10": {
+    "id": "10",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pack Rat Crew"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/10.png"
+      }
+    },
+    "name": "Pack Rat Crew",
+    "type": "Monster",
+    "cost": 0
+  },
+  "11": {
+    "id": "11",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Trebuchet"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/11.png"
+      }
+    },
+    "name": "Trebuchet",
+    "type": "Monster",
+    "cost": 0
+  },
+  "12": {
+    "id": "12",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Enduring General"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/12.png"
+      }
+    },
+    "name": "Enduring General",
+    "type": "Monster",
+    "cost": 0
+  },
+  "13": {
+    "id": "13",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Battle Hungry Ghost"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/13.png"
+      }
+    },
+    "name": "Battle Hungry Ghost",
+    "type": "Monster",
+    "cost": 0
+  },
+  "14": {
+    "id": "14",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stalwart Cadet"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/14.png"
+      }
+    },
+    "name": "Stalwart Cadet",
+    "type": "Monster",
+    "cost": 0
+  },
+  "15": {
+    "id": "15",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Rat King"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/15.png"
+      }
+    },
+    "name": "The Rat King",
+    "type": "Monster",
+    "cost": 0
+  },
+  "16": {
+    "id": "16",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Harmless Rat"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/16.png"
+      }
+    },
+    "name": "Harmless Rat",
+    "type": "Monster",
+    "cost": 0
+  },
+  "17": {
+    "id": "17",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Big Rat"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/17.png"
+      }
+    },
+    "name": "Big Rat",
+    "type": "Monster",
+    "cost": 0
+  },
+  "18": {
+    "id": "18",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sneaky Rat"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/18.png"
+      }
+    },
+    "name": "Sneaky Rat",
+    "type": "Monster",
+    "cost": 0
+  },
+  "19": {
+    "id": "19",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Target Dummy"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/19.png"
+      }
+    },
+    "name": "Target Dummy",
+    "type": "Monster",
+    "cost": 0
+  },
+  "20": {
+    "id": "20",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Angler Fish"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/20.png"
+      }
+    },
+    "name": "Angler Fish",
+    "type": "Monster",
+    "cost": 0
+  },
+  "21": {
+    "id": "21",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Flying Fish"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/21.png"
+      }
+    },
+    "name": "Flying Fish",
+    "type": "Monster",
+    "cost": 0
+  },
+  "22": {
+    "id": "22",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cuddle Fish"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/22.png"
+      }
+    },
+    "name": "Cuddle Fish",
+    "type": "Monster",
+    "cost": 0
+  },
+  "23": {
+    "id": "23",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sword Fish"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/23.png"
+      }
+    },
+    "name": "Sword Fish",
+    "type": "Monster",
+    "cost": 0
+  },
+  "24": {
+    "id": "24",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stingray"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/24.png"
+      }
+    },
+    "name": "Stingray",
+    "type": "Monster",
+    "cost": 0
+  },
+  "25": {
+    "id": "25",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Vamptire Lord"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/25.png"
+      }
+    },
+    "name": "Vamptire Lord",
+    "type": "Monster",
+    "cost": 0
+  },
+  "26": {
+    "id": "26",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Great White Shark"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/26.png"
+      }
+    },
+    "name": "Great White Shark",
+    "type": "Monster",
+    "cost": 0
+  },
+  "27": {
+    "id": "27",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mime"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/27.png"
+      }
+    },
+    "name": "Mime",
+    "type": "Monster",
+    "cost": 0
+  },
+  "28": {
+    "id": "28",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Jester"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/28.png"
+      }
+    },
+    "name": "The Jester",
+    "type": "Monster",
+    "cost": 0
+  },
+  "29": {
+    "id": "29",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The King's Bard"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/29.png"
+      }
+    },
+    "name": "The King's Bard",
+    "type": "Monster",
+    "cost": 0
+  },
+  "30": {
+    "id": "30",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Seer"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/30.png"
+      }
+    },
+    "name": "The Seer",
+    "type": "Monster",
+    "cost": 0
+  },
+  "31": {
+    "id": "31",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Infected Rat King"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/31.png"
+      }
+    },
+    "name": "Infected Rat King",
+    "type": "Monster",
+    "cost": 0
+  },
+  "32": {
+    "id": "32",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Disgusting Rat"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/32.png"
+      }
+    },
+    "name": "Disgusting Rat",
+    "type": "Monster",
+    "cost": 0
+  },
+  "33": {
+    "id": "33",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kill Joy"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/33.png"
+      }
+    },
+    "name": "Kill Joy",
+    "type": "Monster",
+    "cost": 0
+  },
+  "34": {
+    "id": "34",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Clown Fish"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/34.png"
+      }
+    },
+    "name": "Clown Fish",
+    "type": "Monster",
+    "cost": 0
+  },
+  "35": {
+    "id": "35",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beloved Clown"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/35.png"
+      }
+    },
+    "name": "Beloved Clown",
+    "type": "Monster",
+    "cost": 0
+  },
+  "36": {
+    "id": "36",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Living Landmine"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/36.png"
+      }
+    },
+    "name": "Living Landmine",
+    "type": "Monster",
+    "cost": 0
+  },
+  "37": {
+    "id": "37",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Healer Fish"
+        },
+        "type": "Monster",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/37.png"
+      }
+    },
+    "name": "Healer Fish",
+    "type": "Monster",
+    "cost": 0
+  },
+  "38": {
+    "id": "38",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fire Starter"
+        },
+        "type": "Monster",
+        "cost": 6,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/38.png"
+      }
+    },
+    "name": "Fire Starter",
+    "type": "Monster",
+    "cost": 6
+  },
+  "39": {
+    "id": "39",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fireman"
+        },
+        "type": "Monster",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/39.png"
+      }
+    },
+    "name": "Fireman",
+    "type": "Monster",
+    "cost": 1
+  },
+  "40": {
+    "id": "40",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fire Bringer"
+        },
+        "type": "Monster",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/40.png"
+      }
+    },
+    "name": "Fire Bringer",
+    "type": "Monster",
+    "cost": 1
+  },
+  "41": {
+    "id": "41",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fire Pheonix"
+        },
+        "type": "Monster",
+        "cost": 3,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/41.png"
+      }
+    },
+    "name": "Fire Pheonix",
+    "type": "Monster",
+    "cost": 3
+  },
+  "42": {
+    "id": "42",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secret Strategy"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/42.png"
+      }
+    },
+    "name": "Secret Strategy",
+    "type": "Spell",
+    "cost": 0
+  },
+  "43": {
+    "id": "43",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sharpened Sword"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/43.png"
+      }
+    },
+    "name": "Sharpened Sword",
+    "type": "Spell",
+    "cost": 0
+  },
+  "44": {
+    "id": "44",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Surprise Party"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/44.png"
+      }
+    },
+    "name": "Surprise Party",
+    "type": "Spell",
+    "cost": 0
+  },
+  "45": {
+    "id": "45",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Trap Remover"
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/45.png"
+      }
+    },
+    "name": "Trap Remover",
+    "type": "Spell",
+    "cost": 1
+  },
+  "46": {
+    "id": "46",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sky Burn"
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/46.png"
+      }
+    },
+    "name": "Sky Burn",
+    "type": "Spell",
+    "cost": 1
+  },
+  "47": {
+    "id": "47",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rat Caller"
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/47.png"
+      }
+    },
+    "name": "Rat Caller",
+    "type": "Spell",
+    "cost": 1
+  },
+  "48": {
+    "id": "48",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Monster Hunter"
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/48.png"
+      }
+    },
+    "name": "Monster Hunter",
+    "type": "Spell",
+    "cost": 1
+  },
+  "49": {
+    "id": "49",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Thief's Tools"
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/49.png"
+      }
+    },
+    "name": "Thief's Tools",
+    "type": "Spell",
+    "cost": 1
+  },
+  "50": {
+    "id": "50",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fish Slap"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/50.png"
+      }
+    },
+    "name": "Fish Slap",
+    "type": "Spell",
+    "cost": 0
+  },
+  "51": {
+    "id": "51",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Funny Jests"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/51.png"
+      }
+    },
+    "name": "Funny Jests",
+    "type": "Spell",
+    "cost": 0
+  },
+  "52": {
+    "id": "52",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Preamptive Measures"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/52.png"
+      }
+    },
+    "name": "Preamptive Measures",
+    "type": "Spell",
+    "cost": 0
+  },
+  "53": {
+    "id": "53",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Perfect Joke"
+        },
+        "type": "Spell",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/53.png"
+      }
+    },
+    "name": "The Perfect Joke",
+    "type": "Spell",
+    "cost": 1
+  },
+  "54": {
+    "id": "54",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fire"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/54.png"
+      }
+    },
+    "name": "Fire",
+    "type": "Spell",
+    "cost": 0
+  },
+  "55": {
+    "id": "55",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fire Storm"
+        },
+        "type": "Spell",
+        "cost": 6,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/55.png"
+      }
+    },
+    "name": "Fire Storm",
+    "type": "Spell",
+    "cost": 6
+  },
+  "56": {
+    "id": "56",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wall of Fire"
+        },
+        "type": "Spell",
+        "cost": 6,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/56.png"
+      }
+    },
+    "name": "Wall of Fire",
+    "type": "Spell",
+    "cost": 6
+  },
+  "57": {
+    "id": "57",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fire Detector"
+        },
+        "type": "Spell",
+        "cost": 6,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/57.png"
+      }
+    },
+    "name": "Fire Detector",
+    "type": "Spell",
+    "cost": 6
+  },
+  "58": {
+    "id": "58",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fiery will"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/58.png"
+      }
+    },
+    "name": "Fiery will",
+    "type": "Spell",
+    "cost": 0
+  },
+  "59": {
+    "id": "59",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Candle"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/59.png"
+      }
+    },
+    "name": "Candle",
+    "type": "Spell",
+    "cost": 0
+  },
+  "60": {
+    "id": "60",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Red Flames"
+        },
+        "type": "Spell",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/60.png"
+      }
+    },
+    "name": "Red Flames",
+    "type": "Spell",
+    "cost": 0
+  },
+  "61": {
+    "id": "61",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hell's Fire"
+        },
+        "type": "Spell",
+        "cost": 6,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/61.png"
+      }
+    },
+    "name": "Hell's Fire",
+    "type": "Spell",
+    "cost": 6
+  },
+  "62": {
+    "id": "62",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secret Help"
+        },
+        "type": "Trap",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/62.png"
+      }
+    },
+    "name": "Secret Help",
+    "type": "Trap",
+    "cost": 0
+  },
+  "63": {
+    "id": "63",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Negatiotions"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/63.png"
+      }
+    },
+    "name": "Negatiotions",
+    "type": "Trap",
+    "cost": 1
+  },
+  "64": {
+    "id": "64",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stop That"
+        },
+        "type": "Trap",
+        "cost": 3,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/64.png"
+      }
+    },
+    "name": "Stop That",
+    "type": "Trap",
+    "cost": 3
+  },
+  "65": {
+    "id": "65",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Digging a Hole"
+        },
+        "type": "Trap",
+        "cost": 2,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/65.png"
+      }
+    },
+    "name": "Digging a Hole",
+    "type": "Trap",
+    "cost": 2
+  },
+  "66": {
+    "id": "66",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Trickery"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/66.png"
+      }
+    },
+    "name": "Trickery",
+    "type": "Trap",
+    "cost": 1
+  },
+  "67": {
+    "id": "67",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Let Me Take This"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/67.png"
+      }
+    },
+    "name": "Let Me Take This",
+    "type": "Trap",
+    "cost": 1
+  },
+  "68": {
+    "id": "68",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Moving Wall"
+        },
+        "type": "Trap",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/68.png"
+      }
+    },
+    "name": "The Moving Wall",
+    "type": "Trap",
+    "cost": 0
+  },
+  "69": {
+    "id": "69",
+    "face": {
+      "front": {
+        "name": {
+          "name": "I Need This"
+        },
+        "type": "Trap",
+        "cost": 3,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/69.png"
+      }
+    },
+    "name": "I Need This",
+    "type": "Trap",
+    "cost": 3
+  },
+  "70": {
+    "id": "70",
+    "face": {
+      "front": {
+        "name": {
+          "name": "A Way Out"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/70.png"
+      }
+    },
+    "name": "A Way Out",
+    "type": "Trap",
+    "cost": 1
+  },
+  "71": {
+    "id": "71",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Emergency Revive"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/71.png"
+      }
+    },
+    "name": "Emergency Revive",
+    "type": "Trap",
+    "cost": 1
+  },
+  "72": {
+    "id": "72",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blunt Weapon"
+        },
+        "type": "Trap",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/72.png"
+      }
+    },
+    "name": "Blunt Weapon",
+    "type": "Trap",
+    "cost": 0
+  },
+  "73": {
+    "id": "73",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The End of the Road"
+        },
+        "type": "Trap",
+        "cost": 2,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/73.png"
+      }
+    },
+    "name": "The End of the Road",
+    "type": "Trap",
+    "cost": 2
+  },
+  "74": {
+    "id": "74",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sapping Strength Pit"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/74.png"
+      }
+    },
+    "name": "Sapping Strength Pit",
+    "type": "Trap",
+    "cost": 1
+  },
+  "75": {
+    "id": "75",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rat Saver"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/75.png"
+      }
+    },
+    "name": "Rat Saver",
+    "type": "Trap",
+    "cost": 1
+  },
+  "76": {
+    "id": "76",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rat Poison"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/76.png"
+      }
+    },
+    "name": "Rat Poison",
+    "type": "Trap",
+    "cost": 1
+  },
+  "77": {
+    "id": "77",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Birth of the Rat King"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/77.png"
+      }
+    },
+    "name": "Birth of the Rat King",
+    "type": "Trap",
+    "cost": 1
+  },
+  "78": {
+    "id": "78",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Suicide Mission"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/78.png"
+      }
+    },
+    "name": "Suicide Mission",
+    "type": "Trap",
+    "cost": 1
+  },
+  "79": {
+    "id": "79",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rat Pit"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/79.png"
+      }
+    },
+    "name": "Rat Pit",
+    "type": "Trap",
+    "cost": 1
+  },
+  "80": {
+    "id": "80",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fish Bait"
+        },
+        "type": "Trap",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/80.png"
+      }
+    },
+    "name": "Fish Bait",
+    "type": "Trap",
+    "cost": 0
+  },
+  "81": {
+    "id": "81",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fish Net"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/81.png"
+      }
+    },
+    "name": "Fish Net",
+    "type": "Trap",
+    "cost": 1
+  },
+  "82": {
+    "id": "82",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lie and Wait"
+        },
+        "type": "Trap",
+        "cost": 2,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/82.png"
+      }
+    },
+    "name": "Lie and Wait",
+    "type": "Trap",
+    "cost": 2
+  },
+  "83": {
+    "id": "83",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Antidote"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/83.png"
+      }
+    },
+    "name": "The Antidote",
+    "type": "Trap",
+    "cost": 1
+  },
+  "84": {
+    "id": "84",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Creatures from the Deep"
+        },
+        "type": "Trap",
+        "cost": 2,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/84.png"
+      }
+    },
+    "name": "Creatures from the Deep",
+    "type": "Trap",
+    "cost": 2
+  },
+  "85": {
+    "id": "85",
+    "face": {
+      "front": {
+        "name": {
+          "name": "War Horn"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/85.png"
+      }
+    },
+    "name": "War Horn",
+    "type": "Trap",
+    "cost": 1
+  },
+  "86": {
+    "id": "86",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Trapped in Laughter"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/86.png"
+      }
+    },
+    "name": "Trapped in Laughter",
+    "type": "Trap",
+    "cost": 1
+  },
+  "87": {
+    "id": "87",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Reinforcements"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/87.png"
+      }
+    },
+    "name": "Reinforcements",
+    "type": "Trap",
+    "cost": 1
+  },
+  "88": {
+    "id": "88",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pointy Sword"
+        },
+        "type": "Trap",
+        "cost": 2,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/88.png"
+      }
+    },
+    "name": "Pointy Sword",
+    "type": "Trap",
+    "cost": 2
+  },
+  "89": {
+    "id": "89",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Threatening Aura"
+        },
+        "type": "Trap",
+        "cost": 2,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/89.png"
+      }
+    },
+    "name": "Threatening Aura",
+    "type": "Trap",
+    "cost": 2
+  },
+  "90": {
+    "id": "90",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Betrayal"
+        },
+        "type": "Trap",
+        "cost": 2,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/90.png"
+      }
+    },
+    "name": "Betrayal",
+    "type": "Trap",
+    "cost": 2
+  },
+  "91": {
+    "id": "91",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Switcheroo"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/91.png"
+      }
+    },
+    "name": "Switcheroo",
+    "type": "Trap",
+    "cost": 1
+  },
+  "92": {
+    "id": "92",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Killing Joke"
+        },
+        "type": "Trap",
+        "cost": 1,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/92.png"
+      }
+    },
+    "name": "Killing Joke",
+    "type": "Trap",
+    "cost": 1
+  },
+  "93": {
+    "id": "93",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fire Shield"
+        },
+        "type": "Trap",
+        "cost": 6,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/93.png"
+      }
+    },
+    "name": "Fire Shield",
+    "type": "Trap",
+    "cost": 6
+  },
+  "94": {
+    "id": "94",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Burning Heap"
+        },
+        "type": "Trap",
+        "cost": 0,
+        "image": "https://eminspace1.github.io/MaterialsTCG/fronts/94.png"
+      }
+    },
+    "name": "Burning Heap",
+    "type": "Trap",
+    "cost": 0
+  }
+}

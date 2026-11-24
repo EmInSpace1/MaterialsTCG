@@ -30,7 +30,7 @@
     }
   },
   "cards": {
-    "dataUrl": "https://eminspace1.github.io/MaterialsTCG/cards.json",
+    "dataUrl": "https://eminspace1.github.io/MaterialsTCG/cards_formatted.json",
     "cardBack": "https://eminspace1.github.io/MaterialsTCG/backs/back.png"
   }
 }
