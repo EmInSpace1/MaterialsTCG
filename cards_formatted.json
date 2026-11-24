@@ -430,14 +430,14 @@
         "cost": 0,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/21.png",
         "strength": 3,
-        "effect": "When this card is Discarded: Summon 1 \"Fish\" monster from your deck (but you cannot activate it's effects this turn), Then return this card to the bottom of the deck."
+        "effect": "When this card is Discarded: Summon 1 \"Fish\" monster from your deck, Then return this card to the bottom of the deck."
       }
     },
     "name": "Flying Fish",
     "type": "Monster",
     "cost": 0,
     "strength": 3,
-    "effect": "When this card is Discarded: Summon 1 \"Fish\" monster from your deck (but you cannot activate it's effects this turn), Then return this card to the bottom of the deck."
+    "effect": "When this card is Discarded: Summon 1 \"Fish\" monster from your deck, Then return this card to the bottom of the deck."
   },
   "22": {
     "id": "22",
