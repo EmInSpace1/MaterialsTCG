@@ -1,7 +1,7 @@
 {
   "name": "Materials",
   "deckBuilding": {
-    "mainFilters": ["type", "cost", "keyword"],
+    "mainFilters": ["type", "cost"],
     "formats": [
       { "title": "Standard format", "gameplay": "Standard" }
     ]
