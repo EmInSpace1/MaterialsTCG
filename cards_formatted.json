@@ -767,7 +767,7 @@
           "name": "Fire Starter"
         },
         "type": "Monster",
-        "cost": 7,
+        "cost": 6,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/38.png",
         "strength": 3,
         "effect": "Once Per Turn: Burn 6, Add 1 \"Fire\" card from your deck to your hand."
@@ -775,7 +775,7 @@
     },
     "name": "Fire Starter",
     "type": "Monster",
-    "cost": 7,
+    "cost": 6,
     "strength": 3,
     "effect": "Once Per Turn: Burn 6, Add 1 \"Fire\" card from your deck to your hand."
   },
@@ -810,14 +810,14 @@
         "cost": 1,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/40.png",
         "strength": 1,
-        "effect": "When you Burn: Draw 1.\nIf this card is burned: Burn 1."
+        "effect": "When you Burn: Draw 1."
       }
     },
     "name": "Fire Bringer",
     "type": "Monster",
     "cost": 1,
     "strength": 1,
-    "effect": "When you Burn: Draw 1.\nIf this card is burned: Burn 1."
+    "effect": "When you Burn: Draw 1."
   },
   "41": {
     "id": "41",
@@ -827,17 +827,17 @@
           "name": "Fire Pheonix"
         },
         "type": "Monster",
-        "cost": 5,
+        "cost": 3,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/41.png",
         "strength": 3,
-        "effect": "Once per Turn: Burn 6, Add 1 card that got burned this way to your hand.\nIf this card gets burned: Special summon it."
+        "effect": "Once per Turn: Burn 6, Add 1 card that got burned this way to your hand.\nIf this card is burned: Special summon it."
       }
     },
     "name": "Fire Pheonix",
     "type": "Monster",
-    "cost": 5,
+    "cost": 3,
     "strength": 3,
-    "effect": "Once per Turn: Burn 6, Add 1 card that got burned this way to your hand.\nIf this card gets burned: Special summon it."
+    "effect": "Once per Turn: Burn 6, Add 1 card that got burned this way to your hand.\nIf this card is burned: Special summon it."
   },
   "42": {
     "id": "42",
@@ -1065,13 +1065,13 @@
         "type": "Spell",
         "cost": 0,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/54.png",
-        "effect": "Burn 6, Draw 1.\nIf this card is burned: Draw 1."
+        "effect": "Burn 6, Draw 1."
       }
     },
     "name": "Fire",
     "type": "Spell",
     "cost": 0,
-    "effect": "Burn 6, Draw 1.\nIf this card is burned: Draw 1."
+    "effect": "Burn 6, Draw 1."
   },
   "55": {
     "id": "55",
@@ -1081,14 +1081,14 @@
           "name": "Fire Storm"
         },
         "type": "Spell",
-        "cost": 8,
+        "cost": 6,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/55.png",
         "effect": "Burn 6, Deal 4 damage to a monster."
       }
     },
     "name": "Fire Storm",
     "type": "Spell",
-    "cost": 8,
+    "cost": 6,
     "effect": "Burn 6, Deal 4 damage to a monster."
   },
   "56": {
@@ -1099,14 +1099,14 @@
           "name": "Wall of Fire"
         },
         "type": "Spell",
-        "cost": 8,
+        "cost": 6,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/56.png",
         "effect": "Burn 6, Set a trap from your discard pile (it can be activated this turn)."
       }
     },
     "name": "Wall of Fire",
     "type": "Spell",
-    "cost": 8,
+    "cost": 6,
     "effect": "Burn 6, Set a trap from your discard pile (it can be activated this turn)."
   },
   "57": {
@@ -1117,14 +1117,14 @@
           "name": "Fire Detector"
         },
         "type": "Spell",
-        "cost": 8,
+        "cost": 6,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/57.png",
         "effect": "Burn 6, Add a \"Fire\" monster from your deck to your hand."
       }
     },
     "name": "Fire Detector",
     "type": "Spell",
-    "cost": 8,
+    "cost": 6,
     "effect": "Burn 6, Add a \"Fire\" monster from your deck to your hand."
   },
   "58": {
@@ -1137,13 +1137,13 @@
         "type": "Spell",
         "cost": 0,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/58.png",
-        "effect": "Burn 6, Give a monster Piercing this turn.\nIf this card is burned: Draw 1."
+        "effect": "Burn 6, Give a monster Piercing this turn."
       }
     },
     "name": "Fiery will",
     "type": "Spell",
     "cost": 0,
-    "effect": "Burn 6, Give a monster Piercing this turn.\nIf this card is burned: Draw 1."
+    "effect": "Burn 6, Give a monster Piercing this turn."
   },
   "59": {
     "id": "59",
@@ -1155,13 +1155,13 @@
         "type": "Spell",
         "cost": 0,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/59.png",
-        "effect": "Burn 1, Give a monster +1 Attack\nIf this card is burned: Burn 1."
+        "effect": "Burn 1, Give a monster +1 Attack."
       }
     },
     "name": "Candle",
     "type": "Spell",
     "cost": 0,
-    "effect": "Burn 1, Give a monster +1 Attack\nIf this card is burned: Burn 1."
+    "effect": "Burn 1, Give a monster +1 Attack."
   },
   "60": {
     "id": "60",
@@ -1189,14 +1189,14 @@
           "name": "Hell's Fire"
         },
         "type": "Spell",
-        "cost": 8,
+        "cost": 6,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/61.png",
         "effect": "Burn 6, Add 1 card with the keyword \"Burn\" that you did not activate this turn from your discard pile to your hand."
       }
     },
     "name": "Hell's Fire",
     "type": "Spell",
-    "cost": 8,
+    "cost": 6,
     "effect": "Burn 6, Add 1 card with the keyword \"Burn\" that you did not activate this turn from your discard pile to your hand."
   },
   "62": {
@@ -1765,14 +1765,14 @@
           "name": "Fire Shield"
         },
         "type": "Trap",
-        "cost": 8,
+        "cost": 6,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/93.png",
         "effect": "Burn 6, The next time a monster would be destroyed it's not and you take damage equal to that monster's attack."
       }
     },
     "name": "Fire Shield",
     "type": "Trap",
-    "cost": 8,
+    "cost": 6,
     "effect": "Burn 6, The next time a monster would be destroyed it's not and you take damage equal to that monster's attack."
   },
   "94": {
@@ -1783,14 +1783,14 @@
           "name": "Burning Heap"
         },
         "type": "Trap",
-        "cost": 8,
+        "cost": 6,
         "image": "https://eminspace1.github.io/MaterialsTCG/fronts/94.png",
         "effect": "Burn 6, Return a trap on the field to the owner's hand.\nIf this card is Burned: Add it to your hand."
       }
     },
     "name": "Burning Heap",
     "type": "Trap",
-    "cost": 8,
+    "cost": 6,
     "effect": "Burn 6, Return a trap on the field to the owner's hand.\nIf this card is Burned: Add it to your hand."
   }
 }
